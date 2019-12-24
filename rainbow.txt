@@ -1,6 +1,7 @@
 green
 red
 blue
+beautiful colors
 yellow
 white
 black
