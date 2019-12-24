@@ -5,3 +5,5 @@ yellow
 white
 black
 orange
+dark blue
+light blue
