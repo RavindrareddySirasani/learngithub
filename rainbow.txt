@@ -3,6 +3,7 @@ red
 blue
 yellow
 white
+mango
 black
 orange
 dark blue
