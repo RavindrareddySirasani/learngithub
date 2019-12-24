@@ -9,6 +9,7 @@ mango
 jeans shirt
 plain shirt
 lines shirt
+plain and lines shirt
 black
 orange
 dark blue
