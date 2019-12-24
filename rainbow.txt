@@ -2,4 +2,6 @@ green
 red
 blue
 yellow
+white
+black
 orange
