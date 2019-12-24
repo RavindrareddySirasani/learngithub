@@ -4,6 +4,7 @@ blue
 beautiful colors
 yellow
 white
+mango
 black
 orange
 dark blue
