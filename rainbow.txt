@@ -2,6 +2,7 @@ green
 red
 blue
 yellow
+lotus
 white
 black
 orange
