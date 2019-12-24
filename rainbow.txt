@@ -9,3 +9,4 @@ orange
 dark blue
 light blue
 apple
+fruits are giving full energy
