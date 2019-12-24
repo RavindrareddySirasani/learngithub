@@ -3,6 +3,7 @@ red
 blue
 beautiful colors
 yellow
+yellow with orange
 white
 mango
 black
